@@ -5,6 +5,6 @@ This project mainly involved using all the Python fundamentals. The project is a
 
 The data sets used in this project is available on kaggle.
 
-[Applestore data set](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) can be found here.
+Apple store dataset can be found [here](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
 
-[Google playstore data set](https://www.kaggle.com/lava18/google-play-store-apps) can be found here.
+Google playstore dataset can be found [here](https://www.kaggle.com/lava18/google-play-store-apps)
